@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+logs/*
+tracked_files/*
+
+logs/*
+tracked_files/*
